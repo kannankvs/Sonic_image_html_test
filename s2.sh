@@ -1,4 +1,4 @@
-#!/usr/bin bash -e
+#!/usr/bin bash -eabcd
 git checkout -b br3
 git config --global user.email "Kannan_KVS@Dell.com"
 git config --global user.name "kannankvs"
